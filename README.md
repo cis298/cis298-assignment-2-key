@@ -1,10 +1,10 @@
 # Assignment 2 - Temperature Converter
 
-## Due: Date
+## Due: 02-13-2020
 
 ## Author
 
-
+David Barnes
 
 ## Description
 
@@ -50,7 +50,8 @@ The book does not cover how to do work with Radio Buttons. I will talk about it 
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
+None
