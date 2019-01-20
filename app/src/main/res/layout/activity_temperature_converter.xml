@@ -8,14 +8,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="30sp"
+        android:labelFor="@id/temperature_to_convert"
         android:text="@string/convert_prompt" />
 
     <EditText
-        android:layout_width="150dp"
+        android:id="@+id/temperature_to_convert"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
-        android:inputType="number"
-        android:id="@+id/temperature_to_convert" />
+        android:hint="@string/temperature_hint"
+        android:inputType="numberSigned"
+        android:textSize="30sp" />
 
     <LinearLayout
         android:layout_width="wrap_content"
